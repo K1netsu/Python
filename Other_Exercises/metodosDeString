@@ -1,0 +1,9 @@
+frase = '   Isso e uma string   '
+print(frase.upper())
+print(frase.lower())
+print(frase.strip())
+print(frase.lstrip())
+print(frase.rstrip())
+print(frase.find('Iss'))
+print(frase.replace('e', 'é'))
+print('Isso e uma string'.replace('e', 'é'))
